@@ -1,0 +1,9 @@
+.tmp/**/*
+node_modules/**/*
+dist/**/*
+*.jscsrc
+*.jshintrc
+server/node_modules/**/*
+.idea/*
+
+
